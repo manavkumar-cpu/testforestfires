@@ -1,0 +1,13 @@
+prefix=/Users/manavkumar/Desktop/AIML/condaenv
+exec_prefix=/Users/manavkumar/Desktop/AIML/condaenv
+libdir=/Users/manavkumar/Desktop/AIML/condaenv/lib
+sharedlibdir=/Users/manavkumar/Desktop/AIML/condaenv/lib
+includedir=/Users/manavkumar/Desktop/AIML/condaenv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

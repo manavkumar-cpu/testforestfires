@@ -1,0 +1,41 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "WordDictionary",
+      "request": "launch",
+      "mainClass": "WordDictionary",
+      "projectName": "AIML_649cfcce"
+    },
+    {
+      "type": "java",
+      "name": "LinkedListSorter",
+      "request": "launch",
+      "mainClass": "LinkedListSorter",
+      "projectName": "AIML_649cfcce"
+    },
+    {
+      "type": "java",
+      "name": "Node",
+      "request": "launch",
+      "mainClass": "Node",
+      "projectName": "AIML_649cfcce"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "AIML_649cfcce"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/manavkumar/Desktop/AIML/package",
+      "program": "/Users/manavkumar/Desktop/AIML/package/build/Debug/outDebug"
+    }
+  ]
+}
